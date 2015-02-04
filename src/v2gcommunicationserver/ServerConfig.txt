@@ -1,0 +1,7 @@
+PortVehicleCommunication:25001
+PortUserCommunication:25002
+databaseServer:localhost
+databasePort:3306
+databaseScheme:v2gcommunication
+databaseUserName:v2gcommunication
+databasePassWord:v2gcommunication
